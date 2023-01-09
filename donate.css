@@ -39,21 +39,22 @@
 }
 
 .section-title{
-    font-size: 25px;
+  color: black;
+    font-size: 35px;
     text-align: center;
     margin-top: 80px ;
   }
 
   .icon{
-    padding:30px ;
-    font-size: 25px;
+    padding:20px ;
+    font-size: 20px;
     text-align: center;
-    margin-top:  50px;
+    margin-top:  5px;
   }
 
   
   .outdor{
-    color:  #FD6E0A;
+    color: rgb(23, 144, 214);
     font-weight: 700;
     font-size: 20px;
     border: 0;
@@ -117,8 +118,68 @@
    img {
     vertical-align: middle;
   }
-   
+  .most{
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+  }
 
+  .meat{
+    color:  #FD6E0A;
+    font-weight: 700;
+    font-size: 20px;
    
-
+    padding: 18px 35px;
+    height: 63px;
+    border-radius: 5px;
+    display: flex;
+    margin-top:  20px;
     
+  }
+
+ .in-title{
+  text-align: right;
+  font-size: 30px;
+  padding: 4px;
+ }
+   
+.free{
+        font-size: 25px;
+        text-align: right;
+      
+}
+ .pakhi{
+  color: blue;
+  font-weight: 700;
+  font-size: 20px;
+  margin-top: 50px;
+ }
+
+input{
+  text-align: center;
+}
+
+.mostofa{
+  display: flex;
+  text-align: right;
+  text-s
+}
+
+.tomato{
+  color: aqua;
+  font-weight: 700;
+  font-size: 20px;
+  margin-top: 50px;
+   }
+
+   
+.hhhhm{
+  border-radius: 30px;
+  border: 5px;
+  display: flex;
+  justify-content: center;
+  background-image: url('images/gradient2.png');
+  background-repeat: no-repeat;
+  height: 100px;
+ 
+ }
